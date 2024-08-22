@@ -1,0 +1,12 @@
+/home/abhishek/llvm-pass/build/CMakeFiles/intrinsics_gen.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/omp_gen.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/acc_gen.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/clang-tablegen-targets.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/newmemory.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/edit_cache.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/rebuild_cache.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/list_install_components.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/install.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/install/local.dir
+/home/abhishek/llvm-pass/build/CMakeFiles/install/strip.dir
